@@ -5,7 +5,7 @@
 -> Click on Save URL
 -> URL added to Saved List
 -> Delete Option available
--> Click on URL to load it
+-> Click on URL to Load it
 
 A new Flutter project.
 
